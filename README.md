@@ -107,6 +107,7 @@ plt.show()
 <img width="439" alt="Screenshot 2024-03-27 144608" src="https://github.com/Loshini2301/rnn-stock-price-prediction/assets/150007305/b5f80cb7-541d-41d2-b06d-9254079efa98">
 
 ### Mean Square Error
+<img width="465" alt="Screenshot 2024-04-03 141957" src="https://github.com/Loshini2301/rnn-stock-price-prediction/assets/150007305/7b98f7ce-983e-499d-9247-1def35df2fcc">
 
 
 ## Result
